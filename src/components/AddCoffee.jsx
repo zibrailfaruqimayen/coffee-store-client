@@ -155,7 +155,7 @@ const AddCoffee = () => {
 
         <input
           type="submit"
-          value="photo"
+          value="Add Coffee"
           className="bg-[#D2B48C] btn btn-block"
         />
       </form>
